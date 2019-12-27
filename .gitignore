@@ -1,0 +1,17 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea
+dist
+
+# Python specific stuff
+*.pyc
+
+# Thumbnails
+._*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
